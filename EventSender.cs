@@ -31,7 +31,7 @@ namespace EventsExample
         public event EventHandler<BasicEventData> BuiltInGenericEvent;
 
         // This is a completely custom event based on the CustomEventHandler delegate defined above.
-        // Per the delegate's specification, the handler's signature would be:
+        // Per the delegate's specification, the handler's signature must be:
         // void HandlerMethod(object sender, CustomEventArgs e)
         public event CustomEventHandler CustomEvent;
 
