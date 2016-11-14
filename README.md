@@ -7,6 +7,8 @@ An intermediate example of the Event Handling subsystem in .NET.
 I created this example for my CodeMentor students studying the .NET
 event system.  
 
+Need help?  [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/copperstarconsulting?utm_source=github&utm_medium=button&utm_term=copperstarconsulting&utm_campaign=github)
+
 ###Getting Started:
 1. Clone or download the source code
 2. Open the solution in Visual Studio
